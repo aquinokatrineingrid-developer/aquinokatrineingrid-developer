@@ -46,8 +46,8 @@ data analytics and web development.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS |
+| Guessarium(https://github.com/KyziaPi/Lexis_WebApp) | A word guessing game | Python, JavaScript |
+| BingoBits(https://github.com/KyziaPi/BingoBits) | A bingo assembly game | Assembly|
 
 ---
 
